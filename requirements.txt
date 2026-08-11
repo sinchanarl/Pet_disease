@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+python-multipart
+google-genai
+asyncpg
+boto3
+sqlalchemy
+psycopg2-binary
+alembic
+pydantic
+pydantic-settings
+python-dotenv
+pandas
+aiohttp
